@@ -6,18 +6,17 @@ An Augmented Reality Based Travel Mobile Application
 
 - Flutter App with Firebase as a Backend Service with Authentication, Cloud Firestore and Cloud Storage
 
--	Sign in with Google
+- Sign in with Google
 
--	State Management with Provider 
+- State Management with Provider 
 
--	Weather Using OpenWeatherMap API
+- Weather Using OpenWeatherMap API
 
--	Navigation using Google Maps API
+- Navigation using Google Maps API
 
--	Nearby Restaurants using Google Places API
+- Nearby Restaurants using Google Places API
 
--	AR Using Unity 3D
-
-	-Admin App with CRUD operations
+- AR Using Unity 3D
+- Admin App with CRUD operations
 
 
